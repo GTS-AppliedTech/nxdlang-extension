@@ -15,8 +15,8 @@ nxd_language = { path = "../nxd_language" }
 
 [[bin]]
 name = "lsp_parser"
-path = "NXD/lsp_parser.rs"
+path = "nxd-lsp/NXD/lsp_parser.rs"
 
 [[bin]]
 name = "lsp_validate"
-path = "NXD/lsp_validate.rs"
+path = "nxd-lsp/NXD/lsp_validate.rs"
