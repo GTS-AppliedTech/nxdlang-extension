@@ -28,7 +28,7 @@ NXD provides parser, warning, and semantic diagnostics through its Rust frontend
     NXD-S3xxx — semantic diagnostics
     NXD-LSPxxxx — LSP/compiler integration diagnostics
 
-Diagnostic codes can be found at [LSP Diagnostics](nxd-lsp/docs/LSP_DIAGNOSTICS.md)
+Diagnostic codes can be found at [LSP Diagnostics](../docs/LSP_DIAGNOSTICS.md)
 
 **Async / Concurrency Diagnostics**
 
