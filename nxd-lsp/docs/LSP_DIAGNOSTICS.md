@@ -44,8 +44,8 @@
 - NXD-W2005 Parameter '{}' declared but never used
 - NXD-W2006 FUNC '{}' declared but never used.
 - NXD-W2007 Condition is always '{}'.
-- NXD-W2008 *(RESERVED DUPLICATE/REDUNDANT 'MATCH' ARM)*
-- NXD-W2009 *(RESERVED NON-EXHAUSTIVE 'MATCH')*
+- NXD-W2008 Duplicate/redundant MATCH arm '{}'.
+- NXD-W2009 Non-exhaustive 'MATCH'.
 - NXD-W2010 CONST '{}' declared but never used.
 
 
